@@ -18,11 +18,12 @@ The project has four main parts:
 ---
 
 ## Dataset
-
-| File   |                                   |  Description |                                                                    |   Size |
-|------   |                                   |------------- |                                                                   |------|
+| File | Description | Size |
+|------|-------------|------|
 | `Zomato_Restaurant_names_and_Metadata.csv` | 105 restaurants with name, cost, cuisines, collections, timings, and Zomato link | 105 rows × 6 cols |
 | `Zomato_Restaurant_reviews.csv` | Customer reviews scraped from Zomato | ~10,000 rows × 7 cols |
+
+
 
 **Metadata columns:** `Name`, `Links`, `Cost`, `Collections`, `Cuisines`, `Timings`
 
