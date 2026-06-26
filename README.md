@@ -101,17 +101,3 @@ GridSearchCV was used for tuning Random Forest and Gradient Boosting. Cross-vali
 7. ML Modelling (Logistic Regression, Random Forest, Gradient Boosting)
 8. Conclusion
 
----
-
-## Things I'd improve with more time
-
-- Scrape more recent data — this dataset seems to be from 2019–2020 based on review timestamps
-- Try a proper NLP pipeline (TF-IDF + SVM or a fine-tuned BERT) instead of TextBlob, which is pretty blunt for restaurant reviews
-- Add restaurant-level aggregation to see if review volume itself is a predictor
-- Build a simple Streamlit dashboard to explore the EDA charts interactively
-
----
-
-## Author
-
-Feel free to raise an issue or fork the project if you want to build on it.
